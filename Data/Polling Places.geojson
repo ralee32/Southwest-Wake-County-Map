@@ -3,6 +3,31 @@
 "name": "Polling Places",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -78.914212467752648, 35.701449232884947 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -78.896621579856742, 35.706009833450551 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -78.895970065490218, 35.732070408111149 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ -78.872515548295681, 35.724903750079484 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ -78.852318602933721, 35.720994663880397 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ -78.835379229404339, 35.689070459921162 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ -78.86013677533191, 35.67538865822435 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ -78.828256669506658, 35.655958925558906 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ -78.815103097070619, 35.654697624092435 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ -78.836455129038725, 35.650102883036006 ] } },
+{ "type": "Feature", "properties": { "id": 8 }, "geometry": { "type": "Point", "coordinates": [ -78.829517970973129, 35.646228885674709 ] } },
+{ "type": "Feature", "properties": { "id": 9 }, "geometry": { "type": "Point", "coordinates": [ -78.850239352207979, 35.631633825848404 ] } },
+{ "type": "Feature", "properties": { "id": 10 }, "geometry": { "type": "Point", "coordinates": [ -78.809487958144473, 35.620057470374014 ] } },
+{ "type": "Feature", "properties": { "id": 11 }, "geometry": { "type": "Point", "coordinates": [ -78.804473176684937, 35.590971737908703 ] } },
+{ "type": "Feature", "properties": { "id": 12 }, "geometry": { "type": "Point", "coordinates": [ -78.803971698538987, 35.571414090216507 ] } },
+{ "type": "Feature", "properties": { "id": 13 }, "geometry": { "type": "Point", "coordinates": [ -78.783411094554893, 35.584954000157254 ] } },
+{ "type": "Feature", "properties": { "id": 14 }, "geometry": { "type": "Point", "coordinates": [ -78.771877097197958, 35.614039732622565 ] } },
+{ "type": "Feature", "properties": { "id": 15 }, "geometry": { "type": "Point", "coordinates": [ -78.723735195186407, 35.594482084930377 ] } },
+{ "type": "Feature", "properties": { "id": 16 }, "geometry": { "type": "Point", "coordinates": [ -78.721227804456632, 35.631591467730942 ] } },
+{ "type": "Feature", "properties": { "id": 17 }, "geometry": { "type": "Point", "coordinates": [ -78.710195285245661, 35.635603292898573 ] } },
+{ "type": "Feature", "properties": { "id": 18 }, "geometry": { "type": "Point", "coordinates": [ -78.798956917079451, 35.678228935304638 ] } },
+{ "type": "Feature", "properties": { "id": 19 }, "geometry": { "type": "Point", "coordinates": [ -78.766360837592458, 35.689762932661566 ] } },
+{ "type": "Feature", "properties": { "id": 20 }, "geometry": { "type": "Point", "coordinates": [ -78.747806146192175, 35.679733369742493 ] } },
+{ "type": "Feature", "properties": { "id": 21 }, "geometry": { "type": "Point", "coordinates": [ -78.671079989861269, 35.65315502800695 ] } },
+{ "type": "Feature", "properties": { "id": 22 }, "geometry": { "type": "Point", "coordinates": [ -78.664059295817921, 35.604511647849449 ] } },
+{ "type": "Feature", "properties": { "id": 23 }, "geometry": { "type": "Point", "coordinates": [ -78.623941044141631, 35.616045645206384 ] } }
 ]
 }
